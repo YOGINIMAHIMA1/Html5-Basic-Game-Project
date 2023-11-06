@@ -1,0 +1,17 @@
+body{
+    background-color:yellow;
+    text-align:center;
+}
+h1{
+    color:aquamarine;
+    font-family:Arial, Helvetica, sans-serif;
+}
+h2{
+    color:chartreuse;
+    font-family: algerian;
+    font-weight: bolder;
+}
+p{
+    color:orange;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

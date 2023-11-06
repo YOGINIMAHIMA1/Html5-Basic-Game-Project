@@ -1,0 +1,25 @@
+
+  
+
+body{
+
+    background: yellow;
+    text-align: center;
+    font-family:Roboto
+    
+}
+h1{
+  color:aqua;
+  text-decoration:underline;
+
+}
+p{
+  color:red;
+  font-family:Arial, Helvetica, sans-serif;
+}
+a{
+    color:black;
+}
+a:hover{
+  color:rgb(15, 241, 15); 
+}
